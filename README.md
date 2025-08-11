@@ -19,4 +19,13 @@ Foi desenvolvido utilizando:
 ---
 
 ## 📂 Estrutura do Projeto
-
+<pre>curriculo/
+├── index.html
+├── css/
+│ └── style.css
+├── javascript/
+│ └── script.js
+└── assets/
+  └── imagens/
+    └── perfil.jpg
+    └── curriculo.pdf</pre>
