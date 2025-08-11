@@ -1,29 +1,20 @@
-# Currículo Web - Maria Isabel Wirth Marafon
+# 💻 Currículo Web - Maria Isabel Wirth Marafon
 
-Bem-vindo(a) ao meu currículo online! Este projeto foi desenvolvido para apresentar minhas qualificações, experiência e habilidades de forma clara, moderna e acessível, utilizando as melhores práticas de desenvolvimento web.
+Este projeto foi desenvolvido para a disciplina **Programação IV**, do curso de **Ciência da Computação** (6ª fase), no Campus **São Miguel do Oeste** da UNOESC.
 
 ---
 
 ## 📋 Sobre o Projeto
 
-Este currículo digital foi criado com foco em:
+Este currículo online foi criado para apresentar minhas qualificações e experiências usando tecnologias web modernas, com foco em usabilidade, acessibilidade e design responsivo.
 
-- **Experiência do usuário:** Navegação fluida através de uma sidebar fixa para fácil acesso às seções.
-- **Design responsivo:** Funciona bem em dispositivos móveis, tablets e desktops.
-- **Modo claro e escuro:** Alternância de temas para melhor visualização conforme preferência do usuário.
-- **Interatividade:** Formulário de contato funcional que recebe nome e e-mail, com feedback ao usuário.
-- **Integração social:** Ícones que direcionam para minhas redes e contatos profissionais.
-- **Acessibilidade:** Uso correto de tags semânticas e textos alternativos para imagens.
+Foi desenvolvido utilizando:
 
----
-
-## 🛠 Tecnologias Utilizadas
-
-- **HTML5:** Estrutura semântica, com `<header>`, `<main>`, `<section>`, `<footer>` e formulários.
-- **CSS3:** Layout flexível com Flexbox, estilização customizada e responsiva, transições suaves e efeitos hover.
-- **JavaScript:** Funcionalidades como saudação, modo diurno/noturno e manipulação de formulário.
-- **Bootstrap 5:** Grid system e componentes base para acelerar o desenvolvimento.
-- **FontAwesome:** Ícones sociais e gráficos visuais.
+- **HTML5** para estrutura semântica;
+- **CSS3** para estilização e layout responsivo com Flexbox;
+- **JavaScript** para interatividade básica, como modo claro/escuro e formulário funcional;
+- **Bootstrap 5** para facilitar o layout e responsividade;
+- **FontAwesome** para ícones sociais.
 
 ---
 
