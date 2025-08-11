@@ -1,4 +1,4 @@
-# 💻 Currículo Web - Maria Isabel Wirth Marafon
+# 💻 Currículo Web 
 
 Este projeto foi desenvolvido para a disciplina **Programação IV**, do curso de **Ciência da Computação** (6ª fase), no Campus **São Miguel do Oeste** da UNOESC.
 
