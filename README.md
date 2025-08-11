@@ -29,3 +29,7 @@ Foi desenvolvido utilizando:
   └── imagens/
     └── perfil.jpg
     └── curriculo.pdf</pre>
+
+🌐 Link do projeto online
+O currículo está hospedado no GitHub Pages e pode ser acessado em:
+https://mariaglx.github.io/curriculo-web/
